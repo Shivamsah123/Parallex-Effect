@@ -1,4 +1,5 @@
-📜 Parallax Effect
+📜 PARALLAX EFFECT
+
 This repository demonstrates the Parallax Effect, a popular web design technique that creates an illusion of depth by making background elements move at a different speed than foreground elements while scrolling.
 
 ✨ Features
