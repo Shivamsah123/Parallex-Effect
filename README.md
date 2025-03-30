@@ -9,6 +9,10 @@ Multiple layers with varying speeds
 Fully responsive design
 Easy-to-customize HTML, CSS, and JavaScript
 
+📌 Live Site URL: file:///D:/Web%20code/Mini%20project/parallex%20web.html
+
+📬 Connect With Me
+LinkedIn -  https://www.linkedin.com/in/shivam-kumar-sah-39b44028a/  
 
 🛠️ Technologies Used: HTML CSS JavaScript
 
