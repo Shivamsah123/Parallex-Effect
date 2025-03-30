@@ -4,16 +4,13 @@ This repository demonstrates the Parallax Effect, a popular web design technique
 
 ✨ Features
 Smooth scrolling animation
-
 Multiple layers with varying speeds
-
 Fully responsive design
-
 Easy-to-customize HTML, CSS, and JavaScript
 
 
-
 🛠️ Technologies Used
+
 HTML
 
 CSS
