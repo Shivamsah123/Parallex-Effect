@@ -3,9 +3,13 @@
 This repository demonstrates the Parallax Effect, a popular web design technique that creates an illusion of depth by making background elements move at a different speed than foreground elements while scrolling.
 
 ✨ Features
+
 Smooth scrolling animation
+
 Multiple layers with varying speeds
+
 Fully responsive design
+
 Easy-to-customize HTML, CSS, and JavaScript
 
 
